@@ -1,0 +1,58 @@
+.header-1{
+    /* background-image: url(/assets/images/moving\ 1.png); */
+    height: 500px;
+    /* background-image: url(/assets/images/moving\ 1.png) ;  */
+    padding: 0.5em;
+    
+}
+ul{ display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+.horizontal{
+  margin: 25px;
+  color: white;
+}
+.hcolor1{
+    color:  #FAFF00;
+}
+.text-1{
+   margin-left: 100px;
+  
+}
+.imagebg{
+    background-image: url(/assets/images/moving\ 1.png);
+    height: 450px;
+    padding: 10px;
+    width: auto;
+}
+.container{
+    display: flex;
+    height: 450px;
+    padding: 0.5em;
+  
+}
+.hustle-class{
+margin: 10px;
+}
+.hc-2{
+    margin-left: 40px;
+   
+}
+.line{
+    width: 112px;
+    height: 47px;
+    border-bottom: 1px solid black;
+    position: absolute;
+    }
+    .learnmore{
+        background-color: black;
+        color: #FAFF00;
+        font-size: 8px;
+        height: 6em;
+    }
+    .topmovers{
+        background-color: gray;
+        height: 500px;
+        padding: 0.5em;
+    }
