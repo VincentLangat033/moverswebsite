@@ -1,3 +1,9 @@
+body {
+    font-family: "Poppins", Actor ;
+    font-weight: 400;
+    width: 100%;
+  }
+
 .header-1{
     /* background-image: url(/assets/images/moving\ 1.png); */
     height: 500px;
@@ -53,6 +59,22 @@ margin: 10px;
     }
     .topmovers{
         background-color: gray;
-        height: 500px;
+        height: 800px;
         padding: 0.5em;
     }
+    * {
+        box-sizing: border-box;
+      }
+      
+      .column {
+        float: left;
+        width: 30%;
+        padding: 5px;
+      }
+      
+      /* Clearfix (clear floats) */
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
