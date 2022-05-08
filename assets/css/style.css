@@ -103,3 +103,33 @@ margin: 10px;
         border-bottom: 1px solid rgb(87, 92, 48);
         position: absolute;
       }
+
+      /* PAGE 2 STYlING */
+      .page2header{
+          background-color: black;
+          height: 250px;
+          padding: 0.5em;
+      }
+      .line2{
+        border: 3px;
+        
+      width: 100%;
+      height: 10px;
+      border-bottom: 1px solid rgb(87, 92, 48);
+      position: absolute;
+      }
+      .modernflex{
+        display: flex;
+        color: white;
+    }
+      .modernhouse{
+          
+          color: white;
+          border: 2px;
+          margin-left: 30px;
+      }
+     
+      .value21{
+          margin-left: 800px;
+       
+      }
