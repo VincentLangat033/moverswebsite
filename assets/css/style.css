@@ -103,6 +103,30 @@ margin: 10px;
         border-bottom: 1px solid rgb(87, 92, 48);
         position: absolute;
       }
+ /* Icons Styling */
+ .icons{
+     display: flex;
+     justify-content: flex-start;
+     margin-top: 40px;
+     margin-left: 120px;
+ }
+ .icon{
+     margin: 10px;
+     margin-top: 65px;
+ }
+ .columnhead{
+     color: white;
+     display: flex;
+     margin-left: 400px;
+   
+ }
+ .litype{
+     list-style-type: none;
+     margin: 5px;
+ }
+
+
+
 
       /* PAGE 2 STYlING */
       .page2header{
