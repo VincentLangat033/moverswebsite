@@ -24,7 +24,8 @@ This website has been hosted remotely and you can access it on gh-pages via this
 
 
 ## Original Layout
-![](assets/images/landingpage.png)
+![](assets/images/Landing%20Page.png)
+![](assets/images/Property%20Page.png)
 
 ## License
 
