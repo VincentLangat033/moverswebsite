@@ -5,10 +5,11 @@ body {
   }
 
 .header-1{
-    /* background-image: url(/assets/images/moving\ 1.png); */
+ 
     height: 500px;
-    /* background-image: url(/assets/images/moving\ 1.png) ;  */
+    
     padding: 0.5em;
+   
     
 }
 ul{ display: flex;
@@ -28,8 +29,10 @@ ul{ display: flex;
 }
 .imagebg{
     background-image: url(/assets/images/moving\ 1.png);
+    background-size: cover;
+    background-position: center center;
     height: 450px;
-    padding: 10px;
+    padding: 5px;
     width: auto;
 }
 .container{
