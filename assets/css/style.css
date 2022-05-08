@@ -48,6 +48,20 @@ margin: 10px;
     margin-left: 40px;
    
 }
+.bgclr{
+    background-color: #FAFF00;
+    color: black;
+}
+.bgclr2{
+    background-color: #FFAC12;
+}
+.bgclr3{
+    background-color: black;
+    color: #FAFF00;
+}
+span{
+    color: #FAFF00;
+}
 .line{
     width: 112px;
     height: 47px;
