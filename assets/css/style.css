@@ -43,10 +43,11 @@ ul{ display: flex;
 }
 .hustle-class{
 margin: 10px;
+/* width: 100%; */
 }
 .hc-2{
     margin-left: 40px;
-   
+   width: auto;
 }
 .bgclr{
     background-color: #FAFF00;
